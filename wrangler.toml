@@ -1,0 +1,8 @@
+name = "campus-equipment-booking"
+compatibility_date = "2024-03-20"
+main = "src/index.ts"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "booking_db"
+database_id = "26b4ee0c-28ad-416b-bfe1-8a918eade339"
